@@ -4,7 +4,7 @@
     <!-- CAtegories Section Starts Here -->
     <section class="categories">
         <div class="container">
-            
+
             <h2 class="subheading text-center">Explore Foods</h2>
 
             <?php
