@@ -7,7 +7,7 @@
 
 <html>
     <head>
-        <title>Food Order Website - Home page</title>
+        <title>Foodi - Home page</title>
 
         <link rel="stylesheet" href="../css/admin.css">
     </head>
