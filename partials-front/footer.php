@@ -40,7 +40,7 @@
     <footer class="footer">
         <div class="content">
             <div class="copyright">
-                &copy; 2025 Buk$. All rights reserved.
+                &copy; 2025 Foodi. All rights reserved.
             </div>
             <div class="social-icons">
                 <a href="https://x.com/buksbuks_?s=21" target="_blank" title="Twitter"><i class="fab fa-twitter"></i></a>

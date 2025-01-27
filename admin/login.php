@@ -4,7 +4,7 @@
 
 <html>
     <head>
-        <title>Login - Food Order System</title>
+        <title>Login - Foodi</title>
         <link rel="stylesheet" href="../css/admin.css">
     </head>
 
